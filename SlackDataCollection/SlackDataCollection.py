@@ -1,7 +1,7 @@
 import requests
 
 endpoint = "https://slack.com/api/conversations.history?"
-token = "xoxb-881808296276-949792822484-DgNLlsVsWaTBwvfHPu4OzqIH"
+token = ""
 channel = "CRXQB9DRA"
 
 url =  f"{endpoint}token={token}&channel={channel}"
